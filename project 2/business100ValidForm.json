@@ -7,7 +7,8 @@
             "Tuesday": {"close": "21:00", "open": "11:00"}, 
             "Thursday": {"close": "21:00", "open": "11:00"}, 
             "Wednesday": {"close": "21:00", "open": "11:00"},
-            "Monday": {"close": "21:00", "open": "11:00"}}, 
+            "Monday": {"close": "21:00", "open": "11:00"}
+        }, 
         "open": true, 
         "categories": ["Fast Food", "Restaurants"], 
         "city": "Dravosburg", 
