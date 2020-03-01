@@ -17,7 +17,7 @@ df = json_normalize(rows)
 print(df)
 
 with open('./file.tsv', 'w') as csv_f:
-    df.to_csv(csv_f, sep='\t', index=False)
+    df.to_csv(csv_f, sep='\t', line_terminator= '|', index=False)
 
 
 
